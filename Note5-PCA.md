@@ -274,4 +274,4 @@ if __name__ == '__main__':
 
 
 &emsp;&emsp;结果如下。可以看到，数据被较好地区分开了，其中一组数据已经完全和其他的两组数据脱离，另外两组数据也有了明显的分隔界限。这证明我们的PCA方法是正确的。
-![](Article5PCA/Figure_1.png)
+![](Note5-PCA/Figure_1.png)

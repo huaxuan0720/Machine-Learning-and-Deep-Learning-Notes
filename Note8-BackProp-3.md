@@ -15,7 +15,7 @@ thumbnail: gallery/MachineLearning.jpg
 
 
 ##### 一、模型定义  
-![](Article8BackProp-3/20190324214455251.jpg)
+![](Note8-BackProp-3/20190324214455251.jpg)
 &emsp;&emsp;和前面的模型类似，我们使用的输入是一个长度为3的行向量，输出为长度为2的行向量，激活函数设置为 $g$，我们这里使用的是sigmoid激活函数，即：
 $$
 g(x) = \frac{1}{1 + e^{-x}} \tag{1}
@@ -441,4 +441,4 @@ cost： 0.011134284964655492
 cost： 0.011119225375340889
 ```
 &emsp;&emsp;可以看到，我们的算法是可以很好的进行反向传播，并且可以很好地减小cost值。  
-![](Article8BackProp-3/20190324214830557.jpg)
+![](Note8-BackProp-3/20190324214830557.jpg)

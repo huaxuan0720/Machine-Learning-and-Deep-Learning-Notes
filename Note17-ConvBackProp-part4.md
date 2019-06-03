@@ -405,7 +405,7 @@ Our reconstructed map:
 
 &emsp;&emsp;在训练过程中的loss值绘制成折线图如下：  
 
-![](Article17ConvBackProp-part4/loss.png)
+![](Note17-ConvBackProp-part4/loss.png)
 
 &emsp;&emsp;可以看出，损失值loss在某些地方会存在一些小的波动，但在整体上，损失值loss是处在一直在减小的过程中的，这说明我们的算法是正确的。   
 
